@@ -1,2 +1,2 @@
 #!/bin/bash
-chown +X .hello
+chown +x .hello
